@@ -1,0 +1,3 @@
+<Bindings>
+  <Binding name="MAPHUD_TOGGLE" default="CTRL-SPACE">MapHUD:Toggle()</Binding>
+</Bindings>
